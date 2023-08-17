@@ -1,4 +1,4 @@
-  Page 1                                    Tue Aug 15 15:04:35 2023
+  Page 1                                    Thu Aug 17 15:15:08 2023
 
   ******************************************************************
   *                           E P A N E T                          *
@@ -7,17 +7,16 @@
   *                         Version 2.2                            *
   ******************************************************************
   
-  Analysis begun Tue Aug 15 15:04:35 2023
+  Analysis begun Thu Aug 17 15:15:08 2023
 
    
   Hydraulic Status:
   -----------------------------------------------------------------------
-     0:00:00: Balanced after 4 trials
+     0:00:00: Balanced after 13 trials
+              159 nodes had demands reduced by a total of 88.09%
      0:00:00: Reservoir 269 is emptying
      0:00:00: Reservoir 270 is emptying
      0:00:00: Reservoir 271 is emptying
      0:00:00: Reservoir 272 is emptying
    
-  WARNING: Negative pressures at 0:00:00 hrs.
-   
-  Analysis ended Tue Aug 15 15:04:35 2023
+  Analysis ended Thu Aug 17 15:15:08 2023

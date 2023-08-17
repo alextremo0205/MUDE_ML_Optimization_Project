@@ -1,6 +1,6 @@
 ; Filename: MOD.inp
 ; WNTR: 1.0.0
-; Created: 2023-08-15 15:04:35
+; Created: 2023-08-17 15:15:08
 [TITLE]
 modena -- Bragalli, D'Ambrosio, Lee, Lodi, Toth (2008)
 
@@ -681,6 +681,10 @@ CHECKFREQ            2
 MAXCHECK             10
 UNBALANCED           CONTINUE 10
 DEMAND MULTIPLIER    1
+DEMAND MODEL         PDA
+MINIMUM PRESSURE     0.00
+REQUIRED PRESSURE    0.10
+PRESSURE EXPONENT    0.5
 EMITTER EXPONENT     0.5
 QUALITY              Chlorine mg/L
 DIFFUSIVITY          1
