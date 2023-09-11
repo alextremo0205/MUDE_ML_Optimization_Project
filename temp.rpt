@@ -1,0 +1,22 @@
+  Page 1                                    Mon Sep 11 15:59:34 2023
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Mon Sep 11 15:59:34 2023
+
+   
+  Hydraulic Status:
+  -----------------------------------------------------------------------
+     0:00:00: Balanced after 13 trials
+              159 nodes had demands reduced by a total of 88.09%
+     0:00:00: Reservoir 269 is emptying
+     0:00:00: Reservoir 270 is emptying
+     0:00:00: Reservoir 271 is emptying
+     0:00:00: Reservoir 272 is emptying
+   
+  Analysis ended Mon Sep 11 15:59:34 2023
